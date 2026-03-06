@@ -1,6 +1,6 @@
 # Text Animator
 Here I have created a simple text animator for Unity. \
-Download the Unity Package on [Itch](https://tombrah.itch.io/text-animator)
+Download the Unity Package on [Itch](https://tombrah.itch.io/text-animator)!
 
 Simple and easy to use. Just attach the TextAnimator script to any TextMeshPro component and pick from a range of different effects via the dropdown! \
 ![Txt Animation examples](https://github.com/user-attachments/assets/a7cc54eb-87b4-4af8-a606-51e37c66cc3a)
